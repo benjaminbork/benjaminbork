@@ -2,14 +2,6 @@
 
 # Hi, I'm Benjamin Bork! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Next.js Developer**
-
-🌱 I’m currently learning **Web Design**
-
-💬 Ask me about **Web Development**
-
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/benjaminbork/)**
-
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,materialui)
 ![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,postgres,supabase,figma)
