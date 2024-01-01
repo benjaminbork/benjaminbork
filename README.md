@@ -14,9 +14,6 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,materialui)
 ![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,postgres,supabase,figma)
 
-## 🏆 Github Status 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminbork&theme=tokyonight" width="100%" >
-
 ## 🧑‍💻 Codewars
 <img src="https://www.codewars.com/users/benjaminbork/badges/large" width="50%" >
 
