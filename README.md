@@ -17,3 +17,6 @@
 ## 🏆 Github Status 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminbork&theme=tokyonight" width="100%" >
 
+## 🧑‍💻 Codewars
+<img src="https://www.codewars.com/users/benjaminbork/badges/large" width="50%" >
+
