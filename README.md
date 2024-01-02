@@ -7,5 +7,5 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,postgres,supabase,figma)
 
 ## 🧑‍💻 Codewars
-<img src="https://www.codewars.com/users/benjaminbork/badges/large" width="50%" >
+[![Codewars](https://www.codewars.com/users/benjaminbork/badges/large)](https://www.codewars.com/users/benjaminbork)
 
