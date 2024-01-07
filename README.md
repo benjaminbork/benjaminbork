@@ -5,7 +5,3 @@
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,materialui)
 ![My Skills](https://skillicons.dev/icons?i=html,css,mongodb,postgres,supabase,figma)
-
-## 🧑‍💻 Codewars
-[![Codewars](https://www.codewars.com/users/benjaminbork/badges/large)](https://www.codewars.com/users/benjaminbork)
-
